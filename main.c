@@ -12,7 +12,7 @@ int main() {
     deleteNth(2); // List: 4, 7, 2, 6, 3
     deleteBegin(); // List: 7, 2, 6, 3
     printList(HEAD);
-    // reverse();
+    reverse();
     printList(HEAD);
     return 0;
 }
