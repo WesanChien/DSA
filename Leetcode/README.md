@@ -1,0 +1,5 @@
+| # | Title | Difficulty | Date |
+|:-------|:--------:|:-------:|:-------:|
+| 1550 | Three Consecutive Odds | Easy | May 9, 2025 |
+| 1920 | Build Array from Permutation | Easy | May 12, 2025 |
+| 2094 | Finding 3-Digit Even Numbers | Easy | May 13, 2025 |
