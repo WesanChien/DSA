@@ -6,3 +6,4 @@
 | 2900 | Longest Unequal Adjacent Groups Subsequence I | Easy | May 15, 2025 |
 | 3024 | Type of Triangle | Easy | May 20, 2025 |
 | 73 | Set Matrix Zeroes | Medium | May 22, 2025 |
+| 2942 | Find Words Containing Character | Easy | May 25, 2025 |
