@@ -9,3 +9,4 @@
 | 2942 | Find Words Containing Character | Easy | May 25, 2025 |
 | 2894 | Divisible and Non-divisible Sums Difference | Easy | May 27, 2025 |
 | 217 | Contains Duplicate | Easy | June 4, 2025 |
+| 242 | Valid Anagram | Easy | June 4, 2025 |
