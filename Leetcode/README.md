@@ -11,3 +11,4 @@
 | 217 | Contains Duplicate | Easy | June 4, 2025 |
 | 242 | Valid Anagram | Easy | June 4, 2025 |
 | 1 | Two Sum | Easy | June 6, 2025 |
+| 2566 | Maximum Difference by Remapping a Digit | Easy | June 17, 2025 |
