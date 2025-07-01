@@ -13,3 +13,4 @@
 | 1 | Two Sum | Easy | June 6, 2025 |
 | 2566 | Maximum Difference by Remapping a Digit | Easy | June 17, 2025 |
 | 2016 | Maximum Difference Between Increasing Elements | Easy | June 19, 2025 |
+| X | Group Anagrams | Medium | July 1, 2025 |
