@@ -16,3 +16,4 @@
 | X | Group Anagrams | Medium | July 1, 2025 |
 | 2200 | Find All K-Distant Indices in an Array | Easy | July 2, 2025 |
 | X | Top K Frequent Elements | Medium | July 3, 2025 |
+| 271 | Encode and Decode Strings | Meduim | July 4, 2025 |
