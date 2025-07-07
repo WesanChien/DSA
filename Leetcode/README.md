@@ -18,3 +18,4 @@
 | X | Top K Frequent Elements | Medium | July 3, 2025 |
 | 271 | Encode and Decode Strings | Meduim | July 4, 2025 |
 | X | Products of Array Except Self | Medium | July 6, 2025 |
+| X | Valid Sudoku | Medium | July 7, 2025 |
