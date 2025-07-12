@@ -20,3 +20,4 @@
 | X | Products of Array Except Self | Medium | July 6, 2025 |
 | X | Valid Sudoku | Medium | July 7, 2025 |
 | 128 | Longest Consecutive Sequence | Medium | July 9, 2025 |
+| 125 | Valid Palindrome | Easy | July 12, 2025 |
