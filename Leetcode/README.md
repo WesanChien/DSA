@@ -21,3 +21,4 @@
 | X | Valid Sudoku | Medium | July 7, 2025 |
 | 128 | Longest Consecutive Sequence | Medium | July 9, 2025 |
 | 125 | Valid Palindrome | Easy | July 12, 2025 |
+| X | Two Sum II | Medium | July 15, 2025 |
