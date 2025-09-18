@@ -24,4 +24,5 @@
 | X | Two Sum II | Medium | July 15, 2025 |
 | 15 | Three Sum | Medium | September 4, 2025 |
 | 11 | Container With Most Water | Medium | September 6, 2025 |
-| 2264 | Largest 3-Same-Digit Number in String | Easy | September 7, 2025 |
+| 2264 | Largest 3-Same-Digit Number in String | Easy | September 7, 2025 |\
+| 42| Trapping Rain Water | Hard | September 18, 2025 |
