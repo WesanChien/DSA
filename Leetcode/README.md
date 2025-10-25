@@ -27,3 +27,4 @@
 | 2264 | Largest 3-Same-Digit Number in String | Easy | September 7, 2025 |\
 | 42| Trapping Rain Water | Hard | September 18, 2025 |
 | X | Best Time to Buy and Sell Stock | Easy | October 25, 2025 |
+| 3 | Longest Substring Without Repeating Characters | Medium | October 25, 2025 |
