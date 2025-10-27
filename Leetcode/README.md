@@ -28,3 +28,4 @@
 | 42| Trapping Rain Water | Hard | September 18, 2025 |
 | X | Best Time to Buy and Sell Stock | Easy | October 25, 2025 |
 | 3 | Longest Substring Without Repeating Characters | Medium | October 25, 2025 |
+| 424 | Longest Repeating Character Replacement | Medium | October 27, 2025 |
