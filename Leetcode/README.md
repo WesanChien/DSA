@@ -32,3 +32,4 @@
 | 567 | Permutation in String | Medium | November 4, 2025 |
 | 76 | Minimum Window Substring | Hard | November 10, 2025 |
 | 239 | Sliding Window Maximum | Hard | November 11, 2025 |
+| 20 | Valid Parentheses | Easy | November 13, 2025 |
