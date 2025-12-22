@@ -35,3 +35,4 @@
 | 20 | Valid Parentheses | Easy | November 13, 2025 |
 | 155 | Min Stack | Easy | December 20, 2025 |
 | 150 | Evaluate Reverse Polish Notation | Medium | December 21, 2025 |
+| 739 | Daily Temperatures | Medium | December 22, 2025 |
