@@ -37,3 +37,4 @@
 | 150 | Evaluate Reverse Polish Notation | Medium | December 21, 2025 |
 | 739 | Daily Temperatures | Medium | December 22, 2025 |
 | 853 | Car Fleet | Medium | December 23, 2025 |
+| 84 | Largest Rectangle in Histogram | Hard | December 25, 2025 |
