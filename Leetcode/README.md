@@ -40,3 +40,4 @@
 | 84 | Largest Rectangle in Histogram | Hard | December 25, 2025 |
 | 704 | Binary Search | Easy | December 30, 2025 |
 | 74 | Search a 2D Matrix | Medium | January 3, 2026 |
+| 875 | Koko Eating Bananas | Medium | January 4, 2026 |
