@@ -14,10 +14,10 @@ public:
         while(l <= r){
             int mid = (l + r) / 2;
             if(nums[l] <= nums[r]) return nums[l];
-            else if(nums[l] <= nums[mid] && nums[mid] >= nums[r]){
+            else if(nums[l] <= nums[mid] && nums[mid] >= nums[r]){ // 讓 l 跳過左半最大值
                 l = mid + 1;
             }
-            else if(nums[l] >= nums[mid] && nums[mid] <= nums[r]){
+            else if(nums[l] >= nums[mid] && nums[mid] <= nums[r]){ // 右邊都是變大的，右半邊直接砍掉
                 r = mid;
             }
         }
@@ -33,7 +33,7 @@ public:
             int mid = l + (r - l) / 2;
             if (nums[mid] < nums[r]) { // 右邊都是變大的，右半邊直接砍掉
                 r = mid;
-            } else {
+            } else { // 讓 l 跳過左半最大值
                 l = mid + 1;
             }
         }
