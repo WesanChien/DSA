@@ -43,3 +43,4 @@
 | 875 | Koko Eating Bananas | Medium | January 4, 2026 |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | January 5, 2026 |
 | 33 | Search in Rotated Sorted Array | Medium | January 7, 2026 |
+| 981 | Time Based Key-Value Store | Medium | January 8, 2026 |
