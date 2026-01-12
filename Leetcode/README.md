@@ -45,3 +45,4 @@
 | 33 | Search in Rotated Sorted Array | Medium | January 7, 2026 |
 | 981 | Time Based Key-Value Store | Medium | January 8, 2026 |
 | 4 | Median of Two Sorted Arrays | Hard | January 10, 2026 |
+| 206 | Reverse Linked List | Easy | January 12, 2026 |
