@@ -46,3 +46,4 @@
 | 981 | Time Based Key-Value Store | Medium | January 8, 2026 |
 | 4 | Median of Two Sorted Arrays | Hard | January 10, 2026 |
 | 206 | Reverse Linked List | Easy | January 12, 2026 |
+| 21 | Merge Two Sorted Lists | Easy | January 14, 2026 |
