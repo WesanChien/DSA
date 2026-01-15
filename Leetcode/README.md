@@ -47,3 +47,4 @@
 | 4 | Median of Two Sorted Arrays | Hard | January 10, 2026 |
 | 206 | Reverse Linked List | Easy | January 12, 2026 |
 | 21 | Merge Two Sorted Lists | Easy | January 14, 2026 |
+| 141 | Linked List Cycle | Easy | January 15, 2026 |
