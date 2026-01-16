@@ -48,3 +48,4 @@
 | 206 | Reverse Linked List | Easy | January 12, 2026 |
 | 21 | Merge Two Sorted Lists | Easy | January 14, 2026 |
 | 141 | Linked List Cycle | Easy | January 15, 2026 |
+| 143 | Reorder List | Medium | January 16, 2026 |
