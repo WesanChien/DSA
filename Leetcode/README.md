@@ -49,3 +49,4 @@
 | 21 | Merge Two Sorted Lists | Easy | January 14, 2026 |
 | 141 | Linked List Cycle | Easy | January 15, 2026 |
 | 143 | Reorder List | Medium | January 16, 2026 |
+| 19 | Remove Nth Node From End of List | Medium | January 18, 2026 |
