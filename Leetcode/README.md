@@ -13,20 +13,20 @@
 | 1 | Two Sum | Easy | June 6, 2025 |
 | 2566 | Maximum Difference by Remapping a Digit | Easy | June 17, 2025 |
 | 2016 | Maximum Difference Between Increasing Elements | Easy | June 19, 2025 |
-| X | Group Anagrams | Medium | July 1, 2025 |
+| 49 | Group Anagrams | Medium | July 1, 2025 |
 | 2200 | Find All K-Distant Indices in an Array | Easy | July 2, 2025 |
-| X | Top K Frequent Elements | Medium | July 3, 2025 |
+| 347 | Top K Frequent Elements | Medium | July 3, 2025 |
 | 271 | Encode and Decode Strings | Meduim | July 4, 2025 |
-| X | Products of Array Except Self | Medium | July 6, 2025 |
-| X | Valid Sudoku | Medium | July 7, 2025 |
+| 238 | Products of Array Except Self | Medium | July 6, 2025 |
+| 36 | Valid Sudoku | Medium | July 7, 2025 |
 | 128 | Longest Consecutive Sequence | Medium | July 9, 2025 |
 | 125 | Valid Palindrome | Easy | July 12, 2025 |
-| X | Two Sum II | Medium | July 15, 2025 |
+| 167 | Two Sum II | Medium | July 15, 2025 |
 | 15 | Three Sum | Medium | September 4, 2025 |
 | 11 | Container With Most Water | Medium | September 6, 2025 |
 | 2264 | Largest 3-Same-Digit Number in String | Easy | September 7, 2025 |\
 | 42| Trapping Rain Water | Hard | September 18, 2025 |
-| X | Best Time to Buy and Sell Stock | Easy | October 25, 2025 |
+| 121 | Best Time to Buy and Sell Stock | Easy | October 25, 2025 |
 | 3 | Longest Substring Without Repeating Characters | Medium | October 25, 2025 |
 | 424 | Longest Repeating Character Replacement | Medium | October 27, 2025 |
 | 567 | Permutation in String | Medium | November 4, 2025 |
@@ -51,3 +51,4 @@
 | 143 | Reorder List | Medium | January 16, 2026 |
 | 19 | Remove Nth Node From End of List | Medium | January 18, 2026 |
 | 138 | Copy List with Random Pointer | Medium | January 20, 2026 |
+| 2 | Add Two Numbers | Medium | January 21, 2026 |
