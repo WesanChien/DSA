@@ -52,3 +52,4 @@
 | 19 | Remove Nth Node From End of List | Medium | January 18, 2026 |
 | 138 | Copy List with Random Pointer | Medium | January 20, 2026 |
 | 2 | Add Two Numbers | Medium | January 21, 2026 |
+| 287 | Find the Duplicate Number | Medium | January 22, 2026 |
