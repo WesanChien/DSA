@@ -54,3 +54,4 @@
 | 2 | Add Two Numbers | Medium | January 21, 2026 |
 | 287 | Find the Duplicate Number | Medium | January 22, 2026 |
 | 146 | LRU Cache | Medium | January 28, 2026 |
+| 23 | Merge k Sorted Lists | Hard | January 29, 2026 |
