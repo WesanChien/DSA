@@ -56,3 +56,4 @@
 | 146 | LRU Cache | Medium | January 28, 2026 |
 | 23 | Merge k Sorted Lists | Hard | January 29 , 2026 |
 | 25 | Reverse Nodes in k-Group | Hard | January 31, 2026 |
+| 226 | Invert Binary Tree | Easy | February 2, 2026 |
