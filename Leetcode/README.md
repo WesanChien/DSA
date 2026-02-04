@@ -58,3 +58,4 @@
 | 25 | Reverse Nodes in k-Group | Hard | January 31, 2026 |
 | 226 | Invert Binary Tree | Easy | February 2, 2026 |
 | 104 | Maximum Depth of Binary Tree | Easy | February 3, 2026 |
+| 543 | Diameter of Binary Tree | Easy | February 4, 2026 |
