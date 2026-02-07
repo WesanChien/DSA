@@ -60,3 +60,4 @@
 | 104 | Maximum Depth of Binary Tree | Easy | February 3, 2026 |
 | 543 | Diameter of Binary Tree | Easy | February 4, 2026 |
 | 110 | Balanced Binary Tree | Easy | February 5, 2026 |
+| 100 | Same Tree | Easy | February 7, 2026 |
