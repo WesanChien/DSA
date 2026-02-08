@@ -61,3 +61,4 @@
 | 543 | Diameter of Binary Tree | Easy | February 4, 2026 |
 | 110 | Balanced Binary Tree | Easy | February 5, 2026 |
 | 100 | Same Tree | Easy | February 7, 2026 |
+| 572 | Subtree of Another Tree | Easy | February 8, 2026 |
