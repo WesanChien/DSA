@@ -62,3 +62,4 @@
 | 110 | Balanced Binary Tree | Easy | February 5, 2026 |
 | 100 | Same Tree | Easy | February 7, 2026 |
 | 572 | Subtree of Another Tree | Easy | February 8, 2026 |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | February 9, 2026 |
