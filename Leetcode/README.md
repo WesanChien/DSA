@@ -63,3 +63,4 @@
 | 100 | Same Tree | Easy | February 7, 2026 |
 | 572 | Subtree of Another Tree | Easy | February 8, 2026 |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | February 9, 2026 |
+| 102 | Binary Tree Level Order Traversal | Medium | February 11, 2026 |
