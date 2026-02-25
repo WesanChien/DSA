@@ -28,10 +28,10 @@ public:
             for(int i = q.size(); i > 0; i--){
                 TreeNode *tmp = q.front();
                 q.pop();
-                if(tmp){ // 等同於再次確認 q 非空
+                if(tmp){ // 確認之前 enqueue 的不是 nullptr
                     level.push_back(tmp->val);
-                    q.push(tmp->left); // nullptr push 進來也沒差
-                    q.push(tmp->right); // nullptr push 進來也沒差
+                    q.push(tmp->left); // nullptr push 進來也沒差，因為之後有先確認是非 nullptr
+                    q.push(tmp->right);
                 }
             }
             if(!level.empty()) res.push_back(level);
