@@ -65,3 +65,4 @@
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | February 9, 2026 |
 | 102 | Binary Tree Level Order Traversal | Medium | February 11, 2026 |
 | 199 | Binary Tree Right Side View | Medium | February 25, 2026 |
+| 1448 | Count Good Nodes in Binary Tree | Medium | February 26, 2026 |
