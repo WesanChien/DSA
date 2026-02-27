@@ -66,3 +66,4 @@
 | 102 | Binary Tree Level Order Traversal | Medium | February 11, 2026 |
 | 199 | Binary Tree Right Side View | Medium | February 25, 2026 |
 | 1448 | Count Good Nodes in Binary Tree | Medium | February 26, 2026 |
+| 98 | Validate Binary Search Tree | Medium | February 27, 2026 |
