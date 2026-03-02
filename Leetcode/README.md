@@ -67,3 +67,4 @@
 | 199 | Binary Tree Right Side View | Medium | February 25, 2026 |
 | 1448 | Count Good Nodes in Binary Tree | Medium | February 26, 2026 |
 | 98 | Validate Binary Search Tree | Medium | February 27, 2026 |
+| 230 | Kth Smallest Element in a BST | Medium | March 2, 2026 |
