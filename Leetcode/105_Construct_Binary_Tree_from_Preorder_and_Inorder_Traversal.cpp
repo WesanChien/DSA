@@ -30,6 +30,7 @@ public:
         vector<int> leftIn(inorder.begin(), inorder.begin() + mid);
         vector<int> rightIn(inorder.begin() + mid + 1, inorder.end()); // C++ iterator 是 [first, last)，.end() 不是最後的index value，而是後面的 derefernce
 
+        /*DFS 下去遞迴，串出整個 binary tree*/
         root->left = buildTree(leftPre, leftIn);
         root->right = buildTree(rightPre, rightIn);
         return root;
