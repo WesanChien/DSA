@@ -68,3 +68,4 @@
 | 1448 | Count Good Nodes in Binary Tree | Medium | February 26, 2026 |
 | 98 | Validate Binary Search Tree | Medium | February 27, 2026 |
 | 230 | Kth Smallest Element in a BST | Medium | March 2, 2026 |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | March 7, 2026 |
