@@ -69,3 +69,4 @@
 | 98 | Validate Binary Search Tree | Medium | February 27, 2026 |
 | 230 | Kth Smallest Element in a BST | Medium | March 2, 2026 |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | March 7, 2026 |
+| 124 | Binary Tree Maximum Path Sum | Hard | March 9, 2026 |
