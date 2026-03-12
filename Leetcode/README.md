@@ -72,3 +72,4 @@
 | 124 | Binary Tree Maximum Path Sum | Hard | March 9, 2026 |
 | 297 | Serialize and Deserialize Binary Tree | Hard | March 10, 2026 |
 | 703 | Kth Largest Element in a Stream | Easy | March 11, 2026 |
+| 1046 | Last Stone Weight | Easy | March 12, 2026 |
