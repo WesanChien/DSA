@@ -73,3 +73,4 @@
 | 297 | Serialize and Deserialize Binary Tree | Hard | March 10, 2026 |
 | 703 | Kth Largest Element in a Stream | Easy | March 11, 2026 |
 | 1046 | Last Stone Weight | Easy | March 12, 2026 |
+| 973 | K Closest Points to Origin | Medium | March 13, 2026 |
