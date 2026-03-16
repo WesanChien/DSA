@@ -75,3 +75,4 @@
 | 1046 | Last Stone Weight | Easy | March 12, 2026 |
 | 973 | K Closest Points to Origin | Medium | March 13, 2026 |
 | 215 | Kth Largest Element in an Array | Medium | March 14, 2026 |
+| 621 | Task Scheduler | Medium | March 16, 2026 |
