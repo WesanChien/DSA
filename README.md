@@ -31,8 +31,8 @@
 | 167 | Two Sum II | Medium | July 15, 2025 |
 | 15 | Three Sum | Medium | September 4, 2025 |
 | 11 | Container With Most Water | Medium | September 6, 2025 |
-| 2264 | Largest 3-Same-Digit Number in String | Easy | September 7, 2025 |\
-| 42| Trapping Rain Water | Hard | September 18, 2025 |
+| 2264 | Largest 3-Same-Digit Number in String | Easy | September 7, 2025 |
+| 42 | Trapping Rain Water | Hard | September 18, 2025 |
 | 121 | Best Time to Buy and Sell Stock | Easy | October 25, 2025 |
 | 3 | Longest Substring Without Repeating Characters | Medium | October 25, 2025 |
 | 424 | Longest Repeating Character Replacement | Medium | October 27, 2025 |
@@ -83,3 +83,4 @@
 | 973 | K Closest Points to Origin | Medium | March 13, 2026 |
 | 215 | Kth Largest Element in an Array | Medium | March 14, 2026 |
 | 621 | Task Scheduler | Medium | March 16, 2026 |
+| 355 | Design Twitter | Medium | March 17, 2026 |
