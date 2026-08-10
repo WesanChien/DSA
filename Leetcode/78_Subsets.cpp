@@ -41,7 +41,7 @@ private:
         dfs(nums, i + 1);
         // Decision Tree 不加這個數字 nums[i]
         subset.pop_back();
-        dfs(nums, i + 1;);
+        dfs(nums, i + 1);
     }
 }
 
