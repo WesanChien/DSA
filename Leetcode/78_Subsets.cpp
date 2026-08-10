@@ -31,7 +31,7 @@ public:
         return res;
     }
 private:
-    void dfs(vector<int> nums, int i){
+    void dfs(vector<int>& nums, int i){
         if(i >= nums.size()){
             res.push_back(subset);
             return;
